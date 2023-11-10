@@ -1,0 +1,2 @@
+hi this is third feature inside feture/a
+used git stash to temporarily save the current feature branch file and then used git pop to get back my saved work
