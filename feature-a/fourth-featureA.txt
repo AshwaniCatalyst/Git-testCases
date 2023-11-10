@@ -1,0 +1,2 @@
+this feature contains some bug or bad commit
+i commited this file and now making changes in it but haven't pushed the code yet just commited.
